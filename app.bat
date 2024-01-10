@@ -1,0 +1,1 @@
+C:/Users/lenovo/AppData/Local/Programs/Python/Python311/python.exe "d:/Project/Filoger/Datascience 2 School/Exercises/Fanap-Campus-402/app.py"
