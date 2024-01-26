@@ -10,6 +10,6 @@ class Game:
         max_arr = np.max(np_arr)
         result_2 = f'Max value = {max_arr:>4}'
         output = 'WIN' if max_arr > 70 else 'FAIL'
-        result_3 = f'Output    = {output:>8}'
+        result_3 = f'    Output    = {output:>8}'
         
         return result_1 + result_2 + result_3
