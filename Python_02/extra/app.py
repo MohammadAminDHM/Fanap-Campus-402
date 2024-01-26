@@ -5,6 +5,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Game")
 
     parser.add_argument('--count', type=int, required=True, help='number of array elements')    
+    parser.add_argument('--اذیت', type=int, required=True, help='اذیت کنیم')    
     return parser.parse_args()
 
 def main():
